@@ -16,6 +16,15 @@ body
     float: right;
 }
 
-#start , #status{
+#start , #status , #restart{
     font-size: 22px;
+}
+
+.modal-dialog{
+    width: 70%;
+}
+
+.modal-body{
+    text-align: left;
+    font-size: 20px;
 }
